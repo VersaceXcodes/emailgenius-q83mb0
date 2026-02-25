@@ -1,0 +1,15 @@
+{
+  "timestamp": 1771992162104,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "emailgenius",
+  "files": [
+    {
+      "path": "/mnt/data/emailgenius/backend/.env",
+      "type": "text",
+      "size": 307,
+      "dependencies": false
+    }
+  ]
+}
